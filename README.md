@@ -1,9 +1,17 @@
-import requests
-import time
-import os
-import socket
-import string
-import datetime
-import random
-from googletrans import Translator
-from bs4 import BeautifulSoup
+pip install requests
+
+pip install time
+
+pip install os
+
+pip install socket
+
+pip install string
+
+pip install datetime
+
+pip install random
+
+pip install googletrans
+
+pip install beautifulsoup4
