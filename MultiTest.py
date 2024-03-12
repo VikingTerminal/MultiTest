@@ -5,7 +5,6 @@ import socket
 import string
 import datetime
 import random
-from googletrans import Translator
 from bs4 import BeautifulSoup
 
 MAX_TENTATIVI = 3  # Numero massimo di tentativi
